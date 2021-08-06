@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkgatsby_starter_default=self.webpackChunkgatsby_starter_default||[]).push([[28],{5414:function(t,e,n){n.r(e),n.d(e,{default:function(){return u}});var r=n(7294),a=n(7555);function u(){return r.createElement(a.ZP,{projectId:"3J6yCdsGfrQpNxDanbncU8",component:"Category"})}}}]);
+//# sourceMappingURL=component---cache-plasmic-components-pages-category-jsx-c2a586c5770f5aa148a6.js.map
